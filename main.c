@@ -6,7 +6,7 @@
 **	Discentes:	Andre Miguel Coelho Leite	8626249
 **			Laerte Vidal Junior		7557800
 **
-**	Trabalho 2:	Smooth com/sem threads
+**	Projeto Final:	Smooth com/sem threads
 */
 
 #include <stdlib.h>
