@@ -6,7 +6,7 @@
 **	Discentes:	Andre Miguel Coelho Leite	8626249
 **			Laerte Vidal Junior		7557800
 **
-**	Trabalho 3:	Smooth com CUDA
+**	Projeto Final:	Smooth com CUDA
 */
 
 #include <stdlib.h>
